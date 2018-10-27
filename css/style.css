@@ -1,0 +1,28 @@
+
+
+
+
+
+@media screen and (max-width: 480px) {
+
+      #lucy{
+      	height: 200px;
+      }
+}
+
+@media screen and (max-width: 800px) {
+
+      #lucy{
+      	height: 200px;
+      }
+}
+
+
+@media screen and (max-width: 1500px) {
+
+      #lucy{
+      	height: 200px;
+      }
+}
+
+
